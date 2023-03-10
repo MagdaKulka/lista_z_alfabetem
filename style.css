@@ -1,0 +1,10 @@
+.list-item:nth-of-type(even) {
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  font-size: large;
+}
+.list-item:nth-of-type(odd) {
+  background-color: gold;
+  margin-inline-start: ;
+}
